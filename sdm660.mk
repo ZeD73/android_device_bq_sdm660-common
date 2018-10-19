@@ -188,6 +188,7 @@ PRODUCT_PACKAGES += \
     init.qcom.early_bost.sh \
     init.qcom.post_boot.sh \
     init.qcom.sensors.sh \
+    init.qti.qseecomd.sh \
     init.qcom.sh \
     init.qcom.rc \
     ueventd.zangya.rc
